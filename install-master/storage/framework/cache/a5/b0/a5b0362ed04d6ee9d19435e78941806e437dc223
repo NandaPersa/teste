@@ -1,0 +1,154 @@
+1530044847a:1:{s:25:"bate-papo-tecnologico.htm";a:11:{s:8:"fileName";s:25:"bate-papo-tecnologico.htm";s:7:"content";s:3556:"title = "Bate Papo Tecnologico"
+url = "/bate-papo-tecnologico"
+layout = "default"
+description = "Pagina do bate papo tecnologico"
+is_hidden = 0
+
+[carousel]
+id = 2
+==
+{% component 'carousel' %}
+
+<div class="container"> 
+    <center><h1><img class="rounded-circle categoria-img" src="{{ 'assets/images/maior.png'|theme }}"> Bate Papo Tecnológico </h1></center>
+   
+    <hr>
+    
+    <div class="row mb-5 mt-5" >
+					
+					<div class="col-sm-4">
+						<div class="categoria">
+							<img class="rounded-circle categoria-img" src="{{ 'assets/images/missao.png'|theme }}">
+							<center><h3><a href="#missao"> Missão </a></h3></center>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="categoria">
+							<img class="rounded-circle categoria-img" src="{{ 'assets/images/visao.png'|theme }}">
+							<center><h3><a href="#visao">Visão</a></h3></center>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="categoria">
+							<img class="rounded-circle categoria-img" src="{{ 'assets/images/valores.png'|theme }}">
+							<center><h3><a href="#Valores">Valores</a></h3></center>
+						</div>
+					</div>
+				</div>
+				
+				<hr> 
+				
+			<div id="missao">
+			    <h1> Missão</h1>
+			    <p> A missão de uma empresa é o seu propósito fundamental, sua razão de ser, sua finalidade e o porquê de sua criação. Ela tem relação direta com a identidade da organização e, por esse motivo, geralmente não sofre alterações com o passar dos anos.
+
+                    A missão deve ser formulada na forma de uma frase clara e concisa, que responda a questões como:
+
+                    Para que a empresa existe?
+                    O que a empresa faz?
+                    Para quem a empresa trabalha?
+                    Exemplo de missão: Natura
+                    Nossa razão de ser é criar e comercializar produtos e serviços que promovam o bem-estar/estar bem.</p>
+			
+			</div>
+			
+				<div id="visao">
+			    <h1> Visão </h1>
+			    <p> A missão de uma empresa é o seu propósito fundamental, sua razão de ser, sua finalidade e o porquê de sua criação. Ela tem relação direta com a identidade da organização e, por esse motivo, geralmente não sofre alterações com o passar dos anos.
+
+                    A missão deve ser formulada na forma de uma frase clara e concisa, que responda a questões como:
+
+                    Para que a empresa existe?
+                    O que a empresa faz?
+                    Para quem a empresa trabalha?
+                    Exemplo de missão: Natura
+                    Nossa razão de ser é criar e comercializar produtos e serviços que promovam o bem-estar/estar bem.</p>
+			
+			</div>
+				<div id="Valores">
+			    <h1> Valores</h1>
+			    <p> A missão de uma empresa é o seu propósito fundamental, sua razão de ser, sua finalidade e o porquê de sua criação. Ela tem relação direta com a identidade da organização e, por esse motivo, geralmente não sofre alterações com o passar dos anos.
+
+                    A missão deve ser formulada na forma de uma frase clara e concisa, que responda a questões como:
+
+                    Para que a empresa existe?
+                    O que a empresa faz?
+                    Para quem a empresa trabalha?
+                    Exemplo de missão: Natura
+                    Nossa razão de ser é criar e comercializar produtos e serviços que promovam o bem-estar/estar bem.</p>
+			
+			</div>
+    
+</div>";s:5:"mtime";i:1529955716;s:6:"markup";s:3381:"{% component 'carousel' %}
+
+<div class="container"> 
+    <center><h1><img class="rounded-circle categoria-img" src="{{ 'assets/images/maior.png'|theme }}"> Bate Papo Tecnológico </h1></center>
+   
+    <hr>
+    
+    <div class="row mb-5 mt-5" >
+					
+					<div class="col-sm-4">
+						<div class="categoria">
+							<img class="rounded-circle categoria-img" src="{{ 'assets/images/missao.png'|theme }}">
+							<center><h3><a href="#missao"> Missão </a></h3></center>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="categoria">
+							<img class="rounded-circle categoria-img" src="{{ 'assets/images/visao.png'|theme }}">
+							<center><h3><a href="#visao">Visão</a></h3></center>
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="categoria">
+							<img class="rounded-circle categoria-img" src="{{ 'assets/images/valores.png'|theme }}">
+							<center><h3><a href="#Valores">Valores</a></h3></center>
+						</div>
+					</div>
+				</div>
+				
+				<hr> 
+				
+			<div id="missao">
+			    <h1> Missão</h1>
+			    <p> A missão de uma empresa é o seu propósito fundamental, sua razão de ser, sua finalidade e o porquê de sua criação. Ela tem relação direta com a identidade da organização e, por esse motivo, geralmente não sofre alterações com o passar dos anos.
+
+                    A missão deve ser formulada na forma de uma frase clara e concisa, que responda a questões como:
+
+                    Para que a empresa existe?
+                    O que a empresa faz?
+                    Para quem a empresa trabalha?
+                    Exemplo de missão: Natura
+                    Nossa razão de ser é criar e comercializar produtos e serviços que promovam o bem-estar/estar bem.</p>
+			
+			</div>
+			
+				<div id="visao">
+			    <h1> Visão </h1>
+			    <p> A missão de uma empresa é o seu propósito fundamental, sua razão de ser, sua finalidade e o porquê de sua criação. Ela tem relação direta com a identidade da organização e, por esse motivo, geralmente não sofre alterações com o passar dos anos.
+
+                    A missão deve ser formulada na forma de uma frase clara e concisa, que responda a questões como:
+
+                    Para que a empresa existe?
+                    O que a empresa faz?
+                    Para quem a empresa trabalha?
+                    Exemplo de missão: Natura
+                    Nossa razão de ser é criar e comercializar produtos e serviços que promovam o bem-estar/estar bem.</p>
+			
+			</div>
+				<div id="Valores">
+			    <h1> Valores</h1>
+			    <p> A missão de uma empresa é o seu propósito fundamental, sua razão de ser, sua finalidade e o porquê de sua criação. Ela tem relação direta com a identidade da organização e, por esse motivo, geralmente não sofre alterações com o passar dos anos.
+
+                    A missão deve ser formulada na forma de uma frase clara e concisa, que responda a questões como:
+
+                    Para que a empresa existe?
+                    O que a empresa faz?
+                    Para quem a empresa trabalha?
+                    Exemplo de missão: Natura
+                    Nossa razão de ser é criar e comercializar produtos e serviços que promovam o bem-estar/estar bem.</p>
+			
+			</div>
+    
+</div>";s:4:"code";N;s:5:"title";s:21:"Bate Papo Tecnologico";s:3:"url";s:22:"/bate-papo-tecnologico";s:6:"layout";s:7:"default";s:11:"description";s:31:"Pagina do bate papo tecnologico";s:9:"is_hidden";s:1:"0";s:8:"carousel";a:1:{s:2:"id";s:1:"2";}}}

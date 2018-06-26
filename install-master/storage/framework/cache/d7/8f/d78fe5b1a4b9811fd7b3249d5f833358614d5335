@@ -1,0 +1,74 @@
+1530044847a:1:{s:19:"nucleo-pesquisa.htm";a:11:{s:8:"fileName";s:19:"nucleo-pesquisa.htm";s:7:"content";s:1181:"title = "Núcleo Pesquisa"
+url = "/"
+layout = "padrao"
+description = "Pagina do núcleo de pesquisa"
+is_hidden = 0
+
+[carousel]
+id = 1
+==
+{% component 'carousel' %}
+
+
+<div class="container">
+	<h1> Núcleo de Pesquisa </h1>
+	<div class="row mb-5 mt-5" >
+					<div class="col-sm-3">
+						<div class="categoria">
+							<img class="rounded-circle categoria-img" src="{{ 'assets/images/web.png'|theme }}">
+							<center><h3>E2C</h3></center>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div class="categoria">
+							<img class="rounded-circle categoria-img" src="{{ 'assets/images/App.png'|theme }}">
+							<center><h3>RemotLab</h3></center>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div class="categoria">
+							<img class="rounded-circle categoria-img" src="{{ 'assets/images/Erp.png'|theme }}">
+							<center><h3>Pesquisa</h3></center>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div class="categoria">
+							<img class="rounded-circle categoria-img" src="{{ 'assets/images/Designer.png'|theme }}">
+							<center><h3>Robótica</h3></center>
+						</div>
+					</div>
+				</div>
+	
+</div>";s:5:"mtime";i:1529944148;s:6:"markup";s:1035:"{% component 'carousel' %}
+
+
+<div class="container">
+	<h1> Núcleo de Pesquisa </h1>
+	<div class="row mb-5 mt-5" >
+					<div class="col-sm-3">
+						<div class="categoria">
+							<img class="rounded-circle categoria-img" src="{{ 'assets/images/web.png'|theme }}">
+							<center><h3>E2C</h3></center>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div class="categoria">
+							<img class="rounded-circle categoria-img" src="{{ 'assets/images/App.png'|theme }}">
+							<center><h3>RemotLab</h3></center>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div class="categoria">
+							<img class="rounded-circle categoria-img" src="{{ 'assets/images/Erp.png'|theme }}">
+							<center><h3>Pesquisa</h3></center>
+						</div>
+					</div>
+					<div class="col-sm-3">
+						<div class="categoria">
+							<img class="rounded-circle categoria-img" src="{{ 'assets/images/Designer.png'|theme }}">
+							<center><h3>Robótica</h3></center>
+						</div>
+					</div>
+				</div>
+	
+</div>";s:4:"code";N;s:5:"title";s:16:"Núcleo Pesquisa";s:3:"url";s:1:"/";s:6:"layout";s:6:"padrao";s:11:"description";s:29:"Pagina do núcleo de pesquisa";s:9:"is_hidden";s:1:"0";s:8:"carousel";a:1:{s:2:"id";s:1:"1";}}}

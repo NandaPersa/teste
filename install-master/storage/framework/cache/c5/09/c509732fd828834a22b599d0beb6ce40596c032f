@@ -1,0 +1,103 @@
+1530044847a:1:{s:9:"sobre.htm";a:10:{s:8:"fileName";s:9:"sobre.htm";s:7:"content";s:2200:"title = "Sobre"
+url = "/sobre"
+layout = "default"
+description = "Pagina sobre nós"
+is_hidden = 0
+==
+<div class="container">
+	
+		<div >
+			<h2>Sobre nós</h2>
+			<p>2 xícaras (chá) de açúcar 3 xícaras (chá) de farinha de trigo 4 colheres (sopa) de margarina 3 ovos 1 e 1/2 xícara (chá) de leite 1 colher (sopa) bem cheia de fermento em pó</p>
+			<p>Bata as claras em neve e reserve Misture as gemas, a margarina e o açúcar até obter uma massa homogênea Acrescente o leite e a farinha de trigo aos poucos, sem parar de bater Por último, adicione as claras em neve e o fermento Despeje a massa em uma forma grande de furo central untada e enfarinhada Asse em forno médio 180 °C, preaquecido, por aproximadamente 40 minutos ou ao furar o bolo com um garfo, este saia limpo</p>
+		</div>		
+		
+				<div class="row mb-5">
+					<div class="col-sm-4">
+						<div  class="card">
+							<img class="card-img-top" src="{{ 'assets/images/etic.png'|theme }}">
+							<div class="card-body">
+								<h3 class="card-title">Ética e Integridade</h3>
+								<h6 class="card-subtitle text-muted">Subtitulo de A</h6>
+								<p class="card-text"> Algum texto aqui </p>
+								<a href="#" class="card-link">Saiba mais...</a>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-sm-4">
+						<div  class="card">
+							<img class="card-img-top" src="{{ 'assets/images/suste.png'|theme }}">
+							<div class="card-body">
+								<h3 class="card-title">Sustentabilidade</h3>
+								<h6 class="card-subtitle text-muted">Subtitulo de B</h6>
+								<p class="card-text"> Algum texto aqui </p>
+								<a href="#" class="card-link">Saiba mais...</a>
+							</div>
+						</div>
+						
+					</div>
+					<div class="col-sm-4">
+						<div  class="card">
+							<img class="card-img-top" src="{{ 'assets/images/educ.png'|theme }}">
+							<div class="card-body">
+								<h3 class="card-title">Educação</h3>
+								<h6 class="card-subtitle text-muted">Subtitulo de C</h6>
+								<p class="card-text"> Algum texto aqui </p>
+								<a href="#" class="card-link">Saiba mais...</a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+		
+		
+	</div>";s:5:"mtime";i:1529244501;s:6:"markup";s:2093:"<div class="container">
+	
+		<div >
+			<h2>Sobre nós</h2>
+			<p>2 xícaras (chá) de açúcar 3 xícaras (chá) de farinha de trigo 4 colheres (sopa) de margarina 3 ovos 1 e 1/2 xícara (chá) de leite 1 colher (sopa) bem cheia de fermento em pó</p>
+			<p>Bata as claras em neve e reserve Misture as gemas, a margarina e o açúcar até obter uma massa homogênea Acrescente o leite e a farinha de trigo aos poucos, sem parar de bater Por último, adicione as claras em neve e o fermento Despeje a massa em uma forma grande de furo central untada e enfarinhada Asse em forno médio 180 °C, preaquecido, por aproximadamente 40 minutos ou ao furar o bolo com um garfo, este saia limpo</p>
+		</div>		
+		
+				<div class="row mb-5">
+					<div class="col-sm-4">
+						<div  class="card">
+							<img class="card-img-top" src="{{ 'assets/images/etic.png'|theme }}">
+							<div class="card-body">
+								<h3 class="card-title">Ética e Integridade</h3>
+								<h6 class="card-subtitle text-muted">Subtitulo de A</h6>
+								<p class="card-text"> Algum texto aqui </p>
+								<a href="#" class="card-link">Saiba mais...</a>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-sm-4">
+						<div  class="card">
+							<img class="card-img-top" src="{{ 'assets/images/suste.png'|theme }}">
+							<div class="card-body">
+								<h3 class="card-title">Sustentabilidade</h3>
+								<h6 class="card-subtitle text-muted">Subtitulo de B</h6>
+								<p class="card-text"> Algum texto aqui </p>
+								<a href="#" class="card-link">Saiba mais...</a>
+							</div>
+						</div>
+						
+					</div>
+					<div class="col-sm-4">
+						<div  class="card">
+							<img class="card-img-top" src="{{ 'assets/images/educ.png'|theme }}">
+							<div class="card-body">
+								<h3 class="card-title">Educação</h3>
+								<h6 class="card-subtitle text-muted">Subtitulo de C</h6>
+								<p class="card-text"> Algum texto aqui </p>
+								<a href="#" class="card-link">Saiba mais...</a>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+		
+		
+	</div>";s:4:"code";N;s:5:"title";s:5:"Sobre";s:3:"url";s:6:"/sobre";s:6:"layout";s:7:"default";s:11:"description";s:17:"Pagina sobre nós";s:9:"is_hidden";s:1:"0";}}

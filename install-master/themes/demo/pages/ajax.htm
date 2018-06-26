@@ -1,0 +1,45 @@
+title = "AJAX framework"
+url = "/demo/ajax"
+layout = "default"
+is_hidden = 0
+==
+<?php
+function onTest()
+{
+    $value1 = input('value1');
+    $value2 = input('value2');
+    $operation = input('operation');
+
+    switch ($operation) {
+        case '+' :
+            $this['result'] = $value1 + $value2;
+            break;
+        case '-' :
+            $this['result'] = $value1 - $value2;
+            break;
+        case '*' :
+            $this['result'] = $value1 * $value2;
+            break;
+        default :
+            $this['result'] = $value1 / $value2;
+            break;
+    }
+}
+?>
+==
+<div class="jumbotron title-js">
+    <div class="container">
+        <div class="row">
+            <div class="col-8">
+                <h1>Portifólio</h1>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+
+    
+
+</div>

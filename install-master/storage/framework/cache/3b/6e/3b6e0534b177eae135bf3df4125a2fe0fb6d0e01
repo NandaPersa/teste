@@ -1,0 +1,48 @@
+1530044847a:1:{s:15:"site/header.htm";a:6:{s:8:"fileName";s:15:"site/header.htm";s:7:"content";s:1602:"==
+<!-- Nav -->
+<nav id="layout-nav" class="navbar navbar-inverse navbar-fixed-top navbar-autohide" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="{{ 'nucleo-pesquisa'|page }}">NDIAP</a>
+        </div>
+        <div class="collapse navbar-collapse navbar-main-collapse">
+            <ul class="nav navbar-nav">
+                <li class="separator hidden-xs"></li>
+                <li class="{% if this.page.id == 'home' %}active{% endif %}"><a href="{{ 'nucleo-pesquisa'|page }}">Inicio</a></li>
+                <li class="{% if this.page.id == 'sobre' %}active{% endif %}"><a href="{{ 'sobre'|page }}">Sobre</a></li>
+                <li class="{% if this.page.id == 'ajax' %}active{% endif %}"><a href="{{ 'ajax'|page }}">Portifólio</a></li>
+                <li class="{% if this.page.id == 'fale-conosco' %}active{% endif %}"><a href="{{ 'fale-conosco'|page }}">Fale Conosco</a></li>
+                <li class="{% if this.page.id == 'bate-papo-tecnologico' %}active{% endif %}"><a href="{{ 'bate-papo-tecnologico'|page }}">Bate Papo Tecnológico <img  src="{{ 'assets/images/bate.png'|theme }}"></a></li>
+            </ul>
+        </div>
+    </div>
+</nav>";s:5:"mtime";i:1529445424;s:6:"markup";s:1598:"<!-- Nav -->
+<nav id="layout-nav" class="navbar navbar-inverse navbar-fixed-top navbar-autohide" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="{{ 'nucleo-pesquisa'|page }}">NDIAP</a>
+        </div>
+        <div class="collapse navbar-collapse navbar-main-collapse">
+            <ul class="nav navbar-nav">
+                <li class="separator hidden-xs"></li>
+                <li class="{% if this.page.id == 'home' %}active{% endif %}"><a href="{{ 'nucleo-pesquisa'|page }}">Inicio</a></li>
+                <li class="{% if this.page.id == 'sobre' %}active{% endif %}"><a href="{{ 'sobre'|page }}">Sobre</a></li>
+                <li class="{% if this.page.id == 'ajax' %}active{% endif %}"><a href="{{ 'ajax'|page }}">Portifólio</a></li>
+                <li class="{% if this.page.id == 'fale-conosco' %}active{% endif %}"><a href="{{ 'fale-conosco'|page }}">Fale Conosco</a></li>
+                <li class="{% if this.page.id == 'bate-papo-tecnologico' %}active{% endif %}"><a href="{{ 'bate-papo-tecnologico'|page }}">Bate Papo Tecnológico <img  src="{{ 'assets/images/bate.png'|theme }}"></a></li>
+            </ul>
+        </div>
+    </div>
+</nav>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

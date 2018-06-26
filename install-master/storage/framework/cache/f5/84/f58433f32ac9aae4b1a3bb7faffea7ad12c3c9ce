@@ -1,0 +1,77 @@
+1530044847a:1:{s:16:"fale-conosco.htm";a:10:{s:8:"fileName";s:16:"fale-conosco.htm";s:7:"content";s:1641:"title = "Fale Conosco"
+url = "/fale-conosco"
+layout = "default"
+description = "Pagina Fale conosco"
+is_hidden = 0
+==
+<div class="container">
+    <h1> Fale conosco </h1>
+    
+    <hr>
+    
+    	<div class="row mb-5">
+					<div class="col-sm-6">
+						<div  class="card">
+							<img class="card-img-top" src="{{ 'assets/images/chat.png'|theme }}">
+							<div class="card-body">
+								<h2 class="card-title">Atendimento online</h2>
+							    Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. 
+							</div>
+							<div>
+							        <center><button type="button" class="btn btn-primary btn-sm">Atendimeno online</button></center>
+							    </div>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div  class="card">
+							<img class="card-img-top" src="{{ 'assets/images/email.png'|theme }}">
+							<div class="card-body">
+								<h2 class="card-title">Atendimento eletrônico (E-mail)</h2>
+							    Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. 
+							    <div>
+							        <center><button type="button" class="btn btn-primary btn-sm">Atendimeno online</button></center>
+							    </div>
+							</div>
+						</div>
+					</div>
+
+					
+					
+				</div>
+
+</div>";s:5:"mtime";i:1529280800;s:6:"markup";s:1518:"<div class="container">
+    <h1> Fale conosco </h1>
+    
+    <hr>
+    
+    	<div class="row mb-5">
+					<div class="col-sm-6">
+						<div  class="card">
+							<img class="card-img-top" src="{{ 'assets/images/chat.png'|theme }}">
+							<div class="card-body">
+								<h2 class="card-title">Atendimento online</h2>
+							    Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. 
+							</div>
+							<div>
+							        <center><button type="button" class="btn btn-primary btn-sm">Atendimeno online</button></center>
+							    </div>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div  class="card">
+							<img class="card-img-top" src="{{ 'assets/images/email.png'|theme }}">
+							<div class="card-body">
+								<h2 class="card-title">Atendimento eletrônico (E-mail)</h2>
+							    Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. 
+							    <div>
+							        <center><button type="button" class="btn btn-primary btn-sm">Atendimeno online</button></center>
+							    </div>
+							</div>
+						</div>
+					</div>
+
+					
+					
+				</div>
+
+</div>";s:4:"code";N;s:5:"title";s:12:"Fale Conosco";s:3:"url";s:13:"/fale-conosco";s:6:"layout";s:7:"default";s:11:"description";s:19:"Pagina Fale conosco";s:9:"is_hidden";s:1:"0";}}

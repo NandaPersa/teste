@@ -1,0 +1,80 @@
+1530044847a:1:{s:8:"ajax.htm";a:9:{s:8:"fileName";s:8:"ajax.htm";s:7:"content";s:900:"title = "AJAX framework"
+url = "/demo/ajax"
+layout = "default"
+is_hidden = 0
+==
+<?php
+function onTest()
+{
+    $value1 = input('value1');
+    $value2 = input('value2');
+    $operation = input('operation');
+
+    switch ($operation) {
+        case '+' :
+            $this['result'] = $value1 + $value2;
+            break;
+        case '-' :
+            $this['result'] = $value1 - $value2;
+            break;
+        case '*' :
+            $this['result'] = $value1 * $value2;
+            break;
+        default :
+            $this['result'] = $value1 / $value2;
+            break;
+    }
+}
+?>
+==
+<div class="jumbotron title-js">
+    <div class="container">
+        <div class="row">
+            <div class="col-8">
+                <h1>Portifólio</h1>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+
+    
+
+</div>";s:5:"mtime";i:1529586964;s:6:"markup";s:278:"<div class="jumbotron title-js">
+    <div class="container">
+        <div class="row">
+            <div class="col-8">
+                <h1>Portifólio</h1>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+
+    
+
+</div>";s:4:"code";s:520:"function onTest()
+{
+    $value1 = input('value1');
+    $value2 = input('value2');
+    $operation = input('operation');
+
+    switch ($operation) {
+        case '+' :
+            $this['result'] = $value1 + $value2;
+            break;
+        case '-' :
+            $this['result'] = $value1 - $value2;
+            break;
+        case '*' :
+            $this['result'] = $value1 * $value2;
+            break;
+        default :
+            $this['result'] = $value1 / $value2;
+            break;
+    }
+}";s:5:"title";s:14:"AJAX framework";s:3:"url";s:10:"/demo/ajax";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}
